@@ -1,0 +1,24 @@
+1
+00:00:00,498 --> 00:00:10,827
+- Here's what I love most
+about food and diet.
+
+2
+00:00:10,827 --> 00:00:20,383
+We all eat several times a day,
+and we're totally in charge
+
+3
+00:00:20,827 --> 00:00:30,383
+hello world,
+and we're totally in charge
+
+4
+00:00:30,383 --> 00:00:40,427
+python in everywhere
+and what stays off.
+
+5
+00:00:40,383 --> 00:00:50,427
+Go
+and what stays off.

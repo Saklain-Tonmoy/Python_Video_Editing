@@ -1,0 +1,5 @@
+/venv
+/images
+/resized_images
+*.mp4
+*.avi

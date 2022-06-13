@@ -1,0 +1,4 @@
+moviepy==1.0.3
+opencv_python==4.5.5.64
+Pillow==9.1.1
+requests==2.22.0
