@@ -39,7 +39,7 @@ apt install imagemagick
 - First of all, clone the project by running the following command
 
 ```
-git clone [https://github.com/Saklain-Tonmoy/Beego_Assignment.git](https://github.com/Saklain-Tonmoy/Python_Video_Editing.git)
+git clone https://github.com/Saklain-Tonmoy/Python_Video_Editing.git
 ```
 - Then, open the cloned folder using `VS Code` or `PyCharm` and run the following commands
 
