@@ -45,6 +45,8 @@ git clone [https://github.com/Saklain-Tonmoy/Beego_Assignment.git](https://githu
 
 ```
 python3 -m venv venv
+```
+```
 source venv/bin/activate
 ```
 - Finally, runt the file called video_maker.py using the following command
