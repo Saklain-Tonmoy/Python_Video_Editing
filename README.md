@@ -15,7 +15,7 @@
 ## Library and Packages Used
 - OpenCV
 - Moviepy
-- PIL
+- Pillow
 - ImageMagick
 
 ## Prerequisite
@@ -39,7 +39,7 @@ apt install imagemagick
 - First of all, clone the project by running the following command
 
 ```
-git clone (https://github.com/Saklain-Tonmoy/Python_Video_Editing.git)
+git clone https://github.com/Saklain-Tonmoy/Python_Video_Editing.git
 ```
 
 - Then, open the cloned folder using `VS Code` or `PyCharm` and run the following commands
@@ -55,7 +55,7 @@ pip install -r requirements.txt
 - Finally, runt the file called video_maker.py using the following command
 
 ```
-python3 src/video_maker.py
+python3 src/image_motion_video_maker.py
 ```
 
 ## Feedback
