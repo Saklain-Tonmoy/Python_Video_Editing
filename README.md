@@ -15,7 +15,7 @@
 ## Library and Packages Used
 - OpenCV
 - Moviepy
-- Pillow
+- PIL
 - ImageMagick
 
 ## Prerequisite
@@ -39,20 +39,23 @@ apt install imagemagick
 - First of all, clone the project by running the following command
 
 ```
-git clone [https://github.com/Saklain-Tonmoy/Beego_Assignment.git](https://github.com/Saklain-Tonmoy/Python_Video_Editing.git)
+git clone (https://github.com/Saklain-Tonmoy/Python_Video_Editing.git)
 ```
-- Then, open the cloned folder using `VS Code` or `PyCharm` and run the following commands
 
+- Then, open the cloned folder using `VS Code` or `PyCharm` and run the following commands
 ```
 python3 -m venv venv
 ```
 ```
 source venv/bin/activate
 ```
+```
+pip install -r requirements.txt
+```
 - Finally, runt the file called video_maker.py using the following command
 
 ```
-python3 video_maker.py
+python3 src/video_maker.py
 ```
 
 ## Feedback
